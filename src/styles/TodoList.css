@@ -1,0 +1,13 @@
+.todo-list {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .empty-message {
+    text-align: center; /* Center the message */
+    color: #999; /* Light gray color for the message */
+    font-style: italic; /* Italic style for the message */
+    padding: 20px; /* Add some padding around the message */
+  }
+  
